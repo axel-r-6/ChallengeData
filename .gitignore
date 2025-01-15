@@ -1,1 +1,5 @@
 *.csv
+*.pkl
+*.png
+model_rs/
+__pycache__/
